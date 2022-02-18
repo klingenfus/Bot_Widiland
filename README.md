@@ -1,8 +1,8 @@
 # Bot_Widiland
 Bot for WidiLand
 
-WidiLand is a NFT and this bot is for study ONLY.
-I'v made this bot with the help of @Learn Code By Gaming of YouTube.
+WidiLand is a NFT game and this bot is for study porposes ONLY.
+I'v made this bot with the help of @Learn Code By Gaming of YouTube. Check his github @https://github.com/learncodebygaming/opencv_tutorials.
 
 Under Development!
 
@@ -28,6 +28,6 @@ RAM: 16GB
 SSD
 Geforce GTX670
 
-Develop under:    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
+Developed with    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
 
 
