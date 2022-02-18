@@ -16,13 +16,12 @@ Features:
   - Wheat farm and plant. :x:
   - Corn farm and plant. :x:
   - Auto Rerool mission(until wheat and corn only remains) :x:
-  
+  - FPS: 5~8(working on it) :heavy_check_mark:
   
   
   
 Infos:
-FPS: 5~8 (working on it)
-My PC for comparison:
+My PC for FPS comparison:
 Processor: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz   3.70 GHz
 RAM: 16GB
 SSD
