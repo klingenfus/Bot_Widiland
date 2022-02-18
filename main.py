@@ -1,10 +1,16 @@
+from code import InteractiveConsole
 from turtle import position
 import cv2 as cv
 from time import time
 from windowcapture import WindowCapture
 from vision import Vision
 import pyautogui
-from paths import Products, paths
+from paths import Products
+from time import sleep
+from click import click
+
+
+pyautogui.FAILSAFE= True
 
 ###
 WindowCapture.list_window_names()
@@ -32,17 +38,26 @@ while(True):
     if positions_trigo:
         for cord in positions_trigo:
             print(cord)
-    #Print FPS
+            offset_x = -20
+            offset_y = 10
+            cord_x = cord[0] + offset_x
+            cord_y = cord[1] + offset_y
+            print(f' cord: {cord}, cord_x: {cord_x}, cord_y: {cord_y}')
+            click(cord_x , cord_y)
     
-    def do_logar():
+    pyautogui.alert('This is the message to display.') 
+            
+    
+    def do_Reconnect():
+        pass
+    def do_login():
         pass
     def do_Mission():
         pass
-    def do_Reconnect():
+    def do_MissionCheck():
         pass
-    
-        
-    
+       
+    #Print FPS
     print('FPS: {}'.format(1/(time()-loop_time)))
     loop_time = time()
     
