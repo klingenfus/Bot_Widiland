@@ -7,15 +7,15 @@ I'v made this bot with the help of @Learn Code By Gaming of YouTube.
 Under Development!
 
 Features:
-  Detect main screen images(Multiple Images). :heavy_check_mark:
-  Make a rectangle/marker where the imaged needed is found. :heavy_check_mark:
-  Click on the needed image center location. :heavy_check_mark:
-  Auto Login. :x:
-  Auto Reconnect. :x:
-  Auto LevelUp confirmation. :x:
-  Wheat farm and plant. :x:
-  Corn farm and plant. :x:
-  Auto Rerool mission(until wheat and corn only remains) :x:
+  - Detect main screen images(Multiple Images). :heavy_check_mark:
+  - Make a rectangle/marker where the imaged needed is found. :heavy_check_mark:
+  - Click on the needed image center location. :heavy_check_mark:
+  - Auto Login. :x:
+  - Auto Reconnect. :x:
+  - Auto LevelUp confirmation. :x:
+  - Wheat farm and plant. :x:
+  - Corn farm and plant. :x:
+  - Auto Rerool mission(until wheat and corn only remains) :x:
   
   
   
